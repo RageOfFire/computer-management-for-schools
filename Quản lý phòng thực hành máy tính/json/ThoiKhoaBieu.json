@@ -1,0 +1,31 @@
+{
+    "Lich": [
+        {
+            "MaTKB": "2",
+            "PhongMay": "Phòng máy 3",
+            "GiangVien": "Nguyễn Thị Văn A",
+            "MonHoc": "Công nghệ XML và JSON",
+            "ThoiGianHoc": "Tiết 1->3",
+            "Ngay": "Thứ 2",
+            "TongSoTiet": "3"
+        },
+        {
+            "MaTKB": "3",
+            "PhongMay": "Phòng máy 1",
+            "GiangVien": "Nguyễn Văn C",
+            "MonHoc": "Ngôn ngữ SQL",
+            "ThoiGianHoc": "Tiết 1->5",
+            "Ngay": "Thứ 6",
+            "TongSoTiet": "3"
+        },
+        {
+            "MaTKB": "1",
+            "PhongMay": "Phòng máy 3",
+            "GiangVien": "Bùi Văn B",
+            "MonHoc": "Phát triển ứng dụng trên nền web",
+            "ThoiGianHoc": "Tiết 4->5",
+            "Ngay": "Thứ 6",
+            "TongSoTiet": "4"
+        }
+    ]
+}

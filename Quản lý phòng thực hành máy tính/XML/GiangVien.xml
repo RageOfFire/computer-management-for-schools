@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GiangVien>
+  <ThongTinGiangVien>
+    <MaGV>1</MaGV>
+    <TenGV>Nguyễn Thị Văn A</TenGV>
+    <MonHoc>Công nghệ XML và JSON</MonHoc>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>12/08/1992</NgaySinh>
+    <DiaChi>Hà Nội</DiaChi>
+  </ThongTinGiangVien>
+  <ThongTinGiangVien>
+    <MaGV>2</MaGV>
+    <TenGV>Nguyễn Văn C</TenGV>
+    <MonHoc>Ngôn ngữ SQL</MonHoc>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>23/04/1990</NgaySinh>
+    <DiaChi>Bắc Ninh</DiaChi>
+  </ThongTinGiangVien>
+  <ThongTinGiangVien>
+    <MaGV>3</MaGV>
+    <TenGV>Bùi Văn B</TenGV>
+    <MonHoc>Phát triển ứng dụng trên nền web</MonHoc>
+    <GioiTinh>Nam</GioiTinh>
+    <NgaySinh>03/06/1991</NgaySinh>
+    <DiaChi>Hà Nội</DiaChi>
+  </ThongTinGiangVien>
+</GiangVien>

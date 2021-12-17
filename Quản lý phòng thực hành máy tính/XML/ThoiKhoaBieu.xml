@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThoiKhoaBieu>
+  <Lich>
+    <MaTKB>2</MaTKB>
+    <PhongMay>Phòng máy 3</PhongMay>
+    <GiangVien>Nguyễn Thị Văn A</GiangVien>
+    <MonHoc>Công nghệ XML và JSON</MonHoc>
+    <ThoiGianHoc>Tiết 1-&gt;3</ThoiGianHoc>
+    <Ngay>Thứ 2</Ngay>
+    <TongSoTiet>3</TongSoTiet>
+  </Lich>
+  <Lich>
+    <MaTKB>3</MaTKB>
+    <PhongMay>Phòng máy 1</PhongMay>
+    <GiangVien>Nguyễn Văn C</GiangVien>
+    <MonHoc>Ngôn ngữ SQL</MonHoc>
+    <ThoiGianHoc>Tiết 1-&gt;5</ThoiGianHoc>
+    <Ngay>Thứ 6</Ngay>
+    <TongSoTiet>3</TongSoTiet>
+  </Lich>
+  <Lich>
+    <MaTKB>1</MaTKB>
+    <PhongMay>Phòng máy 3</PhongMay>
+    <GiangVien>Bùi Văn B</GiangVien>
+    <MonHoc>Phát triển ứng dụng trên nền web</MonHoc>
+    <ThoiGianHoc>Tiết 4-&gt;5</ThoiGianHoc>
+    <Ngay>Thứ 6</Ngay>
+    <TongSoTiet>4</TongSoTiet>
+  </Lich>
+</ThoiKhoaBieu>

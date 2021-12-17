@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhongMay>
+  <May>
+    <MaPhongMay>1</MaPhongMay>
+    <TenPhongMay>Phòng Máy 1</TenPhongMay>
+    <MayTinh>Window 10 education</MayTinh>
+    <SoLuong>40</SoLuong>
+    <MoTa>Phòng ở A.902 tầng 9</MoTa>
+  </May>
+  <May>
+    <MaPhongMay>2</MaPhongMay>
+    <TenPhongMay>Phòng Máy 2</TenPhongMay>
+    <MayTinh>Window 10 education</MayTinh>
+    <SoLuong>40</SoLuong>
+    <MoTa>Phòng ở A.905 tầng 9</MoTa>
+  </May>
+  <May>
+    <MaPhongMay>3</MaPhongMay>
+    <TenPhongMay>Phòng Máy 3</TenPhongMay>
+    <MayTinh>Window 10 education</MayTinh>
+    <SoLuong>40</SoLuong>
+    <MoTa>Phòng ở A.802 tầng 8</MoTa>
+  </May>
+  <May>
+    <MaPhongMay>4</MaPhongMay>
+    <TenPhongMay>Phòng máy 4</TenPhongMay>
+    <MayTinh>Window 10 education</MayTinh>
+    <SoLuong>20</SoLuong>
+    <MoTa>Phòng ở A.801 tầng 8</MoTa>
+  </May>
+</PhongMay>

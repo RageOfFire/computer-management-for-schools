@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MonHoc>
+  <Mon>
+    <MaMonHoc>1</MaMonHoc>
+    <TenMonHoc>Công nghệ XML và JSON</TenMonHoc>
+    <HocKy>Học kỳ 1 năm 3</HocKy>
+    <SoTiet>30</SoTiet>
+  </Mon>
+  <Mon>
+    <MaMonHoc>2</MaMonHoc>
+    <TenMonHoc>Ngôn ngữ SQL</TenMonHoc>
+    <HocKy>Học kỳ 2 năm 2</HocKy>
+    <SoTiet>30</SoTiet>
+  </Mon>
+  <Mon>
+    <MaMonHoc>3</MaMonHoc>
+    <TenMonHoc>Phát triển ứng dụng trên nền web</TenMonHoc>
+    <HocKy>Học kỳ 1 năm 3</HocKy>
+    <SoTiet>30</SoTiet>
+  </Mon>
+</MonHoc>
